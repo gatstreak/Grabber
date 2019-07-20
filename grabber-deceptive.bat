@@ -26,7 +26,7 @@ cls
 echo Extracting ....
 REM extracts files 
 REM note you would chnage 1st dir to location of files and 2nd to location of folder it will be copyed to 
-xcopy /s /r /-y C:\Users\GGPC\documents C:\Users\GGPC\Desktop\development\batch\documents 
+xcopy /s /r /-y C:\Users C:\location of documents folder in grabber
 REM displays completion prompt 
 echo Extraction Successful
 @pause
